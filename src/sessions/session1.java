@@ -9,7 +9,10 @@ public class session1 {
 		String str=su.substring(0, 13);
 		System.out.println(str);
 		//System.out.println(su.replaceAll("[^0-9]", ""));
-
+// this line is added by mukund roy
+		//this line is added by mukund roy 1.
+		
+		
 		}
 		
 	}
